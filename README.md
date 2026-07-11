@@ -158,7 +158,7 @@ This project reimplements, in C, the design of a small HOPPL-style
 probabilistic programming language whose reference implementation is in
 Python, built around the same "resumable evaluator + message interface"
 idea. If you're interested in the theory behind this style of PPL
-implementation, look into van de Meent et al., *An Introduction to
-Probabilistic Programming* — in particular the chapters on evaluation-
+implementation, look into [van de Meent et al., *An Introduction to
+Probabilistic Programming*](https://arxiv.org/abs/1809.10756) — in particular the chapters on evaluation-
 based inference and on the message-passing interface between an
 evaluator and its inference controllers.
